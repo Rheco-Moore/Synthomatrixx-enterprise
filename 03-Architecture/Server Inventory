@@ -1,0 +1,9 @@
+# Server Inventory
+
+| Server | Purpose | OS | Location |
+|----------|---------|---------|---------|
+| DC-01 | Identity Services | Windows Server 2022 | Azure |
+| APP-01 | Internal Applications | Windows Server 2022 | Azure |
+| SQL-01 | Database | Windows Server 2022 | Azure |
+| MGMT-01 | Management Tools | Windows Server 2022 | Azure |
+| FILE-01 | File Services | Windows Server 2022 | Azure |
