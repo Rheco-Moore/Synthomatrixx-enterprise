@@ -1,0 +1,67 @@
+# Infrastructure Overview
+
+The environment supports approximately 320 employees distributed across North America and the Caribbean.
+
+Infrastructure is divided into five primary layers.
+
+---
+
+## Identity Layer
+
+Microsoft Entra ID
+
+Authentication
+
+SSO
+
+Conditional Access
+
+---
+
+## Productivity Layer
+
+Microsoft 365
+
+Exchange
+
+Teams
+
+SharePoint
+
+OneDrive
+
+---
+
+## Endpoint Layer
+
+Windows 11 Enterprise
+
+Intune Managed Devices
+
+Microsoft Defender
+
+---
+
+## Infrastructure Layer
+
+Azure Virtual Machines
+
+Azure Storage
+
+Virtual Networks
+
+VPN Gateway
+
+---
+
+## Security Layer
+
+Microsoft Sentinel
+
+Microsoft Defender
+
+Compliance
+
+DLP
+
+Insider Risk
