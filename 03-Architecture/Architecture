@@ -1,0 +1,74 @@
+# Architecture
+
+## Purpose
+
+SynthoMatrixx Technologies operates a hybrid cloud environment built around Microsoft cloud services while maintaining a small on-premises footprint for legacy systems and secure management services.
+
+The architecture has been designed around five principles:
+
+- Security by Design
+- Least Privilege
+- Cloud First
+- High Availability
+- Operational Simplicity
+
+---
+
+## Enterprise Design
+
+The environment consists of:
+
+- Microsoft 365
+- Microsoft Entra ID
+- Azure
+- Windows Endpoints
+- Microsoft Intune
+- Exchange Online
+- Microsoft Teams
+- SharePoint Online
+- Microsoft Defender
+- Microsoft Sentinel
+
+These platforms provide identity, productivity, collaboration, endpoint management, security monitoring and infrastructure services.
+
+---
+
+## Core Principles
+
+### Identity First
+
+Every user authenticates through Microsoft Entra ID.
+
+---
+
+### Cloud First
+
+Applications are delivered through Microsoft cloud services whenever practical.
+
+---
+
+### Zero Trust
+
+Access is continuously validated using
+
+- MFA
+- Conditional Access
+- Device Compliance
+- Identity Risk
+- Least Privilege
+
+---
+
+### Standardisation
+
+Every endpoint follows the same deployment process using Microsoft Intune.
+
+---
+
+### Monitoring
+
+Security and operational events are monitored through
+
+- Microsoft Sentinel
+- Microsoft Defender
+- Azure Monitoring
