@@ -1,0 +1,59 @@
+# Network Zones
+
+The enterprise network is segmented into security zones.
+
+## Internet
+
+Public users
+
+External services
+
+---
+
+## DMZ
+
+Reverse Proxy
+
+Web Applications
+
+VPN Gateway
+
+---
+
+## Corporate Network
+
+Employees
+
+Servers
+
+Business Applications
+
+---
+
+## Management Network
+
+Domain Controllers
+
+Management Servers
+
+Jump Servers
+
+---
+
+## Security Zone
+
+Microsoft Sentinel
+
+Defender
+
+SIEM
+
+Log Collection
+
+---
+
+## Backup Network
+
+Backup Storage
+
+Recovery Services
