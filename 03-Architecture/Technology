@@ -1,0 +1,70 @@
+# Technology Stack
+
+## Identity
+
+- Microsoft Entra ID
+- Microsoft Defender for Identity
+
+---
+
+## Productivity
+
+- Microsoft 365
+- Exchange Online
+- Teams
+- SharePoint
+- OneDrive
+
+---
+
+## Infrastructure
+
+- Azure Virtual Machines
+- Windows Server 2022
+- Azure Storage
+- Azure Networking
+
+---
+
+## Endpoint Management
+
+- Microsoft Intune
+- Windows Autopilot
+- Microsoft Defender
+
+---
+
+## Security
+
+- Microsoft Sentinel
+- Defender XDR
+- Conditional Access
+- MFA
+- DLP
+- Insider Risk
+
+---
+
+## Monitoring
+
+- Datadog
+- Splunk
+- Azure Monitor
+
+---
+
+## Automation
+
+- PowerShell
+
+- Python
+
+- Power Automate
+
+- Terraform
+
+---
+
+## Ticketing
+
+- Jira Service Management
